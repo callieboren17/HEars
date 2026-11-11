@@ -17,6 +17,8 @@ Download both files into the same directory, open the R script in RStudio, insta
 
 If using these materials, please cite the accompanying manuscript.
 
+Boren, C. M., McConkey, S. M., & McClannahan, K. S. (2026). Hearing-related empowerment as a complement to traditional measures of hearing difficulties. Manuscript submitted for publication.
+
 ## Contact
 
 For questions about the data or analyses, please contact the study authors.
